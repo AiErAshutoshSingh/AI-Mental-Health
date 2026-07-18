@@ -6,10 +6,10 @@
 
 ## ✨ Features
 
-- 🤖 AI-powered Mental Health Chatbot using Groq API
-- 💬 Real-time conversational interface with chat history
+- 🤖 AI Powered Mental Health Chatbot using Groq API
+- 💬 Real time conversational interface with chat history
 - 🔐 Secure Login & Sign Up with JWT Authentication
-- 📄 PDF & Document Upload with AI-powered analysis
+- 📄 PDF & Document Upload with AI Powered analysis
 - 😊 Mood Tracking & Daily Journaling
 - 🧘 Breathing Exercises & Guided Wellness
 - 📊 Personal Dashboard & Progress Analytics
@@ -120,30 +120,6 @@ AI-Mental-Health-Counselor/
 └── README.md
 ```
 
----
-
-# 🚀 Installation
-
-```bash
-# Clone Repository
-git clone https://github.com/your-username/AI-Mental-Health-Counselor.git
-
-cd AI-Mental-Health-Counselor
-
-# Frontend
-cd frontend
-npm install
-npm run dev
-
-# Backend
-cd backend
-
-pip install -r requirements.txt
-
-uvicorn main:app --reload
-```
-
----
 
 # 🌐 Deployment
 
@@ -156,9 +132,9 @@ uvicorn main:app --reload
 
 # 📌 Future Enhancements
 
-- Voice-to-Voice AI Conversations
+- Voice to Voice AI Conversations
 - AI Therapist Personas
-- Multi-language Support
+- Multi language Support
 - Emotion Detection from Voice
 - Mobile App (Flutter/React Native)
 - AI Appointment Scheduler
