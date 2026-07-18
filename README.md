@@ -53,7 +53,6 @@
   <img src="chatsection2.png" width="100%" alt="AI Chat"/>
 </p>
 
----
 
 ---
 
@@ -164,6 +163,3 @@ uvicorn main:app --reload
 - Mobile App (Flutter/React Native)
 - AI Appointment Scheduler
 
----
-
-## ⭐ If you found this project useful, don't forget to give it a Star!
