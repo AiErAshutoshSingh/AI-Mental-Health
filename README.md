@@ -1,6 +1,6 @@
  # 🧠 AI Mental Health Counselor
 
-> A production-ready AI-powered Mental Health Counselor built with **React, FastAPI, Groq API, PostgreSQL, and Three.js**, featuring a premium **3D Glassmorphism UI**, intelligent AI conversations, mood tracking, journaling, and personalized wellness support.
+> A Production Ready AI Powered Mental Health Counselor built with **React, FastAPI, Groq API, PostgreSQL, and Three.js**, featuring a premium **3D Glassmorphism UI**, intelligent AI conversations, mood tracking, journaling, and personalized wellness support.
 
 ---
 
@@ -24,7 +24,7 @@
 ### Home Page 1
 
 <p align="center">
-  <img src="assets/home1.png" width="100%" alt="Home Page 1"/>
+  <img src="Homepage1.png" width="100%" alt="Home Page 1"/>
 </p>
 
 ---
@@ -32,31 +32,17 @@
 ### Home Page 2
 
 <p align="center">
-  <img src="assets/home2.png" width="100%" alt="Home Page 2"/>
+  <img src="Homepage2.png" width="100%" alt="Home Page 2"/>
 </p>
 
 ---
 
-### Home Page 3
 
-<p align="center">
-  <img src="assets/home3.png" width="100%" alt="Home Page 3"/>
-</p>
-
----
-
-# 🔐 Authentication
-
-<p align="center">
-  <img src="assets/login.png" width="100%" alt="Login Page"/>
-</p>
-
----
 
 # 📊 Dashboard
 
 <p align="center">
-  <img src="assets/dashboard.png" width="100%" alt="Dashboard"/>
+  <img src="dashboard1.png" width="100%" alt="Dashboard"/>
 </p>
 
 ---
@@ -64,40 +50,10 @@
 # 💬 AI Chat
 
 <p align="center">
-  <img src="assets/chat.png" width="100%" alt="AI Chat"/>
+  <img src="chatsection2.png" width="100%" alt="AI Chat"/>
 </p>
 
 ---
-
-# 😊 Mood Tracker
-
-<p align="center">
-  <img src="assets/mood.png" width="100%" alt="Mood Tracker"/>
-</p>
-
----
-
-# 📔 Daily Journal
-
-<p align="center">
-  <img src="assets/journal.png" width="100%" alt="Journal"/>
-</p>
-
----
-
-# 📄 Document Upload
-
-<p align="center">
-  <img src="assets/upload.png" width="100%" alt="Document Upload"/>
-</p>
-
----
-
-# 🧘 Wellness & Breathing Exercises
-
-<p align="center">
-  <img src="assets/wellness.png" width="100%" alt="Wellness"/>
-</p>
 
 ---
 
